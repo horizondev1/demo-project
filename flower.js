@@ -4,6 +4,7 @@ console.log(rose);
 if(rose.length > 13){
     let maxLine = rose.slice(0, 14);
     
+    
     let stuName = " rayhan bhuiyaa";
     console.log(maxLine + '\n' +'working' + stuName);
     

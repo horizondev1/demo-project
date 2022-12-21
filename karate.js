@@ -9,3 +9,5 @@ const person = {
 }
 
 person.fullname();
+let player1 = "Sung haa";
+console.log(player1);

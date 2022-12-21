@@ -11,3 +11,8 @@ const person = {
 person.fullname();
 let player1 = "Sung haa";
 console.log(player1);
+
+
+//<<<<<<< mabrur
+let player2 = 'Son';
+console.log(player2);

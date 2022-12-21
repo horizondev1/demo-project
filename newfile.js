@@ -19,10 +19,18 @@ animals.forEach(animal =>{
         console.log(heGets + ' gets ' + animal + '\n');
     })
 });
+let chips = "potato";
+console.log("I love to eat " + chips)
+let chips2 = "bringal";
+console.log("I love to eat " + chips2)
+
 let demo1 = "test pull request"
 console.log(demo1)
+
 let demo2 = "test2";
 console.log("changed file"+demo2)
+
+
 
 
 const person = {

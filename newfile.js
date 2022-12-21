@@ -19,3 +19,5 @@ animals.forEach(animal =>{
         console.log(heGets + ' gets ' + animal + '\n');
     })
 });
+let chips = "potato";
+console.log("I love to eat " + chips)

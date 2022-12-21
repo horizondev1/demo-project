@@ -8,8 +8,8 @@ for(; i<sports.length;i++){
 }
 
 // >>>>>>> mabrur
-let s = ["apple","orange","lichi"];
-console.log(s);
+let ssamsul = ["apple","orange","lichi"];
+console.log(ssamsul);
 
 let animals = ["dog", "cow", "horse", "monkey"];
 animals.forEach(animal =>{
